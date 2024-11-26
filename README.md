@@ -34,7 +34,7 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 **DevOps**:  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=red-hat-openshift&logoColor=white)
+![Minikube](https://img.shields.io/badge/-Minikube-0098CE?style=flat&logo=Kubernetes&logoColor=white)  
 
 **Testing**:  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
