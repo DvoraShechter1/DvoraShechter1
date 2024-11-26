@@ -41,4 +41,4 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 ---
 
 ### 📬 Contact Me  
-📧 **Email**: [dshechter@example.com](mailto:dshechter@example.com)  
+📧 **Email**: [d0583212560@gmail.com](mailto:d0583212560@gmail.com)  
