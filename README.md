@@ -1,4 +1,4 @@
-# 👩‍💻 Dvora Shechter  
+# Dvora Shechter
 
 ### 🌟 About Me  
 Hi there! I'm a **full-stack developer** with a passion for coding and a love for algorithms.  
